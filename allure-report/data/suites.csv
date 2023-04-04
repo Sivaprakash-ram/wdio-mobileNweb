@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Apr 04 10:12:19 BST 2023","Tue Apr 04 10:12:32 BST 2023","12677","","My Android Tests","","","","should not be able to login with in-valid credentials",""
+"skipped","Tue Apr 04 10:12:32 BST 2023","Tue Apr 04 10:12:32 BST 2023","1","","My Android Tests","","","","should login with valid credentials",""
+"passed","Tue Apr 04 10:12:32 BST 2023","Tue Apr 04 10:13:06 BST 2023","33975","","My Android Tests","","","","should see products page and select a product and then add to cart then checkout order",""
+"passed","Tue Apr 04 10:13:06 BST 2023","Tue Apr 04 10:13:39 BST 2023","33167","","My Android Tests","","","","should see products page and select a product and then add to cart then checkout order",""
