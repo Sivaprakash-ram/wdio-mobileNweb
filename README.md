@@ -47,14 +47,14 @@ Run =>
 # Project Framework Setup in Local
 Clone the Repo from [GitHub](https://github.com/Sivaprakash-ram/wdio-mobileNweb)
 
-Run => git clone https://github.com/Siva-Nimble/wdio-mobileNweb.git
+Run => git clone https://github.com/sivaprakash-ram/wdio-mobileNweb.git
 
 Run => npm install
 
 # Web and Mobile Test Cofigurations
-You can configure Web Automation ( i.e., Browser, Parallel Test, Retries, Reporting etc ) as per needs by editing [wdio.conf.js](https://github.com/Siva-Nimble/wdio-mobileNweb/blob/main/wdio.conf.js) file.
+You can configure Web Automation ( i.e., Browser, Parallel Test, Retries, Reporting etc ) as per needs by editing [wdio.conf.js](https://github.com/Sivaprakash-ram/wdio-mobileNweb/blob/main/wdio.conf.js) file.
 
-You can configure Mobile Automation ( i.e., Android/iOS, Parallel Test, Retries, Device Farms, Reporting etc ) as per needs by editing [wdio.android.conf.js](https://github.com/Siva-Nimble/wdio-mobileNweb/blob/main/wdio.android.conf.js) and [wdio.iOS.conf.js](https://github.com/Siva-Nimble/wdio-mobileNweb/blob/main/wdio.iOS.conf.js) files.  
+You can configure Mobile Automation ( i.e., Android/iOS, Parallel Test, Retries, Device Farms, Reporting etc ) as per needs by editing [wdio.android.conf.js](https://github.com/Sivaprakash-ram/wdio-mobileNweb/blob/main/wdio.android.conf.js) and [wdio.iOS.conf.js](https://github.com/Sivaprakash-ram/wdio-mobileNweb/blob/main/wdio.iOS.conf.js) files.  
 
 # Run Tests in Local
 Web  
