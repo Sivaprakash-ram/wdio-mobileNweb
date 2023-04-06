@@ -45,7 +45,7 @@ Run =>
 Run => 
 
 # Project Framework Setup in Local
-Clone the Repo from [GitHub](https://github.com/Siva-Nimble/wdio-mobileNweb)
+Clone the Repo from [GitHub](https://github.com/Sivaprakash-ram/wdio-mobileNweb)
 
 Run => git clone https://github.com/Siva-Nimble/wdio-mobileNweb.git
 
